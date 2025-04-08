@@ -1,2 +1,2 @@
 # ec-cicd-repo
-CICD trainings repo 
+CICD trainings repos 
